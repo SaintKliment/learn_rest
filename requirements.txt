@@ -11,3 +11,5 @@ packaging==24.0
 python-dotenv==1.0.1
 webargs==8.4.0
 Werkzeug==3.0.3
+sqlalchemy
+flask-sqlalchemy
